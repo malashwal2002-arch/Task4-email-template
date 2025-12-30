@@ -51,7 +51,7 @@ body {
 
 .space-header {
     height: 10px;
-    background-image: linear-gradient(to right,#8B1538, #FE9A00, #8B1538);
+    background-image: linear-gradient(to right, #8B1538, #FE9A00, #8B1538);
 }
 
 /* Body */
@@ -99,7 +99,7 @@ body {
 }
 
 .verify-btn {
-     background-image: linear-gradient(to right, #8B1538, #6B0F2A);
+    background-image: linear-gradient(to right, #8B1538, #6B0F2A);
     color: #ffffff;
     padding: 15px 35px;
     text-decoration: none;
@@ -126,7 +126,7 @@ body {
     color: #4A5565;
     font-size: 13px;
     padding: 15px;
-    border-left:4px solid #D1D5DC ;
+    border-left: 4px solid #D1D5DC;
 }
 
 /* Footer  */
